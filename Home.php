@@ -5,19 +5,14 @@ include "Header.php";
 	<img src="background.jpg" width="100%" height="600px">
 	<div class="centered"><center><h2 style="font-weight: bold;">Student Portal for Better UnderStanding</h2><br><h4>Contribute here by Writing Answers for your favourite Subjects and Help others to understand the Subject Easily.</h4><br><button type="button" class="btn btn-success btn-lg">Contribute Here</button></center></div>
 </div> -->
-<!-- <h2 class="ml4">
-			  <span class="text-wrapper">
-			    <span class="letters">CSQueries: A Student's Portal</span>
-			    <span class="line"></span>
-			  </span>
-			</h2> -->
+
 <div class="parallax" style="padding: 550px 0px 50px 0px;">
 		<div class="centered" style="padding: 90px 0px 0px 0px;">
 			
 			<h1 class="ml1">
 			  <span class="text-wrapper">
 			    <span class="line line1"></span>
-			    <span class="letters">CSQueries: A Student's Portal here</span>
+			    <span class="letters">CSQueries: A Student's Portal here hdjd</span>
 			    <span class="line line2"></span>
 			  </span>
 			</h1>
